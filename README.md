@@ -1,0 +1,2 @@
+# DailyLog
+Daily work logs
