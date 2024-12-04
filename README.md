@@ -9,5 +9,7 @@ I think there should be alot to learn from these daily public logs that other pe
 
 ## Legend
 prefixed with * are things that are done
+
 prefixed with # are things to do tomorrow, or eventually
+
 no prefix means general thoughts for the day
