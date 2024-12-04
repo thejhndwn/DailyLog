@@ -1,4 +1,4 @@
-# DailyLog
+# Daily Log
 Here you can find a daily log of things that I've been doing. 
 
 ## Why a daily log?
