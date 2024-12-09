@@ -1,0 +1,12 @@
+# work on vocaloid generator for release on Saturday
+# walk 6 miles
+# do a short 30 minute workout
+# 
+
+
+vocaloid generator:
+- input audio file
+- isolate vocals from audio file
+- feed to vocaloid generator
+- publish
+
