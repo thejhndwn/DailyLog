@@ -1,4 +1,4 @@
-day work 
+### day work 
 - wake up
 - stretch
 - go over day plans
@@ -12,13 +12,13 @@ day work
 - practice language 
 - evening activities
 
-sleep routine
+### sleep routine
 - one hour before bed 8:30
 - make tomorrow plans
 - hygiene
 - read to sleep 9:30
 
-evening fun
+### evening fun
 - mon - read 
 - tues - read 
 - wed - write 
@@ -32,7 +32,7 @@ every sunday revaluate goals and progress (money, diet, weight, sleep, work)
 every sunday beginning of the month revaluate schedule
 
 
-daily tracking
+### daily tracking
 - finances
 - diet
 - weight
