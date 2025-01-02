@@ -7,3 +7,7 @@ I need a daily log in order to keep track of the work I'm doing. I found out its
 ## Why make it public? 
 I think there should be alot to learn from these daily public logs that other people may find useful in the future. I've kept a journal and a private logs from time to time and I'm at a point where I want and need the social contract of keeping a daily log to keep myself accountable. While I like to write, I am again very lazy.
 
+# TODO
+- make blog post about 2024 in review and 2025 goals
+- unify the two scripts cd month and vim today - rn the startup commands are different
+- fix the today.sh so it makes the directory before creating the file when necessary
