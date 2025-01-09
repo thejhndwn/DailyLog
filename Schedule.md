@@ -20,11 +20,11 @@
 
 ### evening fun
 - mon - read 
-- tues - read 
+- tues - read + apply to jobs
 - wed - write 
 - thurs - code 
 - fri - code 
-- sat - youtube 
+- sat - youtube + apply to jobs
 - sun - singing
 
 every sunday revaluate goals and progress (money, diet, weight, sleep, work)
