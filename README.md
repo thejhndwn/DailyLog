@@ -10,4 +10,4 @@ I think there should be alot to learn from these daily public logs that other pe
 # TODO
 - make blog post about 2024 in review and 2025 goals
 - unify the two scripts cd month and vim today - rn the startup commands are different
-- fix the today.sh so it makes the directory before creating the file when necessary
+- fix the today.sh so it makes the directory before creating the file when necessary, rn the saving will fail bc the directory may not exist
