@@ -6,35 +6,33 @@
 - goals
 
 # done
-- did taxes
-- walked twice and worked out
-- learned all the countries' flags
-- figured out how to do the news aggregation - rss feeds
-- figured out how to do the tts - huggingface
-- studied the Ilya papers and PCA and euler's number refresher
-- didn't apply to jobs, but did not nap and was more cognizant of time. 
+- audio generation is done
+- database population is done
+- figured out the orchestartion method
+* need to make the VTuber
+* need to test the continuous streaming with ffmpeg concat method
+* need to add the twitch interface
+* need to clean up the scheduling
+* need to clean up the staging
+* need to figure out the kubernetes setup
 
 # schedule
 
 ## today
-- read about hugging face NLP
-- some fun coding project tonight. Like try to upload a model on HuggingFace. OR try to contribute to Open Source. We could try to make a NLP Text summarizer/context adder to be used in the news bot
+- finish the news bot
+- apply to jobs
 
 ## tomorrow
-- read Transformers paper
-- read another paper in the Ilya set
-- read about hugging face NLP
+- learn about VTuber stuff, and how we make these VTuber scenes and stuff
+- learn about generative audio
+- learn about how to make an AI play games
 - apply to jobs
-- Try to delve more into Huggingface ecosystem (make a model or contribute to OS)
-- make the automated version of the news bot
-- make (at least design) the twitch functionality and commands and API processing
-- work on the VTuber model
-- learn Rust
- 
-
+- test the continuous streaming with ffmpeg, otherwise we need to switch to OBS method
+- try out some stuff with the VTuber default models, or try to make your own, just try to make headway in getting the VTuber stuff ready to go.
+- The goal for tomorrow is to apply to jobs and to be ready to ship this thing, sans the production staging and the kubernetes stuff. But I want to be able to send a VTuber stream to Twitch now. 
 
 ## week
-- add Vtuber with 3D model and twitch functionality Fri/Sat
+- add Vtuber with 3D model and twitch functionality Wed/Thurs
 - post cooking video Fri
 - post singing video Sun
 - post commentary video Sun/Sat
