@@ -21,13 +21,15 @@
 - some fun coding project tonight. Like try to upload a model on HuggingFace. OR try to contribute to Open Source. We could try to make a NLP Text summarizer/context adder to be used in the news bot
 
 ## tomorrow
-- read about Transformers paper
+- read Transformers paper
+- read another paper in the Ilya set
 - read about hugging face NLP
 - apply to jobs
 - Try to delve more into Huggingface ecosystem (make a model or contribute to OS)
 - make the automated version of the news bot
 - make (at least design) the twitch functionality and commands and API processing
 - work on the VTuber model
+- learn Rust
  
 
 
@@ -69,11 +71,11 @@
 
 ## misc
 - remove credit card charges
-- taxes
 - finish ci/cd interactive buddy
 - finish ci/cd lokispalace
 - finish dev for ar glasses
 - finish dotfiles implementation
+- finish DailyLog automation
 
 # plans
 
