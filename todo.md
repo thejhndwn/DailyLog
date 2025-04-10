@@ -6,23 +6,16 @@
 - goals
 
 # done
-- audio generation is done
-- database population is done
-- figured out the orchestartion method
-* need to make the VTuber
-* need to test the continuous streaming with ffmpeg concat method
-* need to add the twitch interface
-* need to clean up the scheduling
-* need to clean up the staging
-* need to figure out the kubernetes setup
+- tested the avatar scene recording
+- created the avatar and first stage scene
+* need to finish the viseme stuff tomorrow
+* need to setup the scheduling tomorrow
+* need to finalize the containers tomorrow
+* need to try a pass and then continuous pass
 
 # schedule
 
 ## today
-- finish the news bot
-- apply to jobs
-
-## tomorrow
 - learn about VTuber stuff, and how we make these VTuber scenes and stuff
 - learn about generative audio
 - learn about how to make an AI play games
