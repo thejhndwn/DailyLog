@@ -6,30 +6,45 @@
 - goals
 
 # done
-- tested the avatar scene recording
-- created the avatar and first stage scene
-* need to finish the viseme stuff tomorrow
-* need to setup the scheduling tomorrow
-* need to finalize the containers tomorrow
-* need to try a pass and then continuous pass
 
 # schedule
+## tomorrow
+7 wake up
+7-8 walk
+8-9 lift
+9-10 chinese
+10-12 world models and RL
+12-12:30 rest
+12:30-3 news bot
+3-5 papers, RL project, or news bot
+5-8/9 volleyuball
+9-10 plans for tmr, papers
 
-## today
-- learn about VTuber stuff, and how we make these VTuber scenes and stuff
-- learn about generative audio
-- learn about how to make an AI play games
-- apply to jobs
-- test the continuous streaming with ffmpeg, otherwise we need to switch to OBS method
-- try out some stuff with the VTuber default models, or try to make your own, just try to make headway in getting the VTuber stuff ready to go.
-- The goal for tomorrow is to apply to jobs and to be ready to ship this thing, sans the production staging and the kubernetes stuff. But I want to be able to send a VTuber stream to Twitch now. 
+- learn chinese 1
+- learn about RL and world models 2
+- finish the news bot m1 4
+ - add the visemes
+ - optimize the blender render
+ - add the video queue
+ - check on scheduling and everything
+ - add twitch functionality
+ - add more model expressions and movements 
+- start an RL project 2
+- go over some Ilya papers and look at ongoing work in ML 2
 
 ## week
-- add Vtuber with 3D model and twitch functionality Wed/Thurs
-- post cooking video Fri
-- post singing video Sun
-- post commentary video Sun/Sat
-- maybe post TFT video Sat
+- make an RL project
+- record a singing video
+- improve news bot
+- record cooking video
+- record commentary video
+- learn chinese 
+- learn go over the Ilya papers and research the ongoing ML stuff, try to make an ML research project
+
+- finish up the misc work
+- learn Rust
+- learn Vim
+
 
 # work
 ## current project - AI NEWS BOT
@@ -82,6 +97,8 @@
 - news bot
 - make local model
 - make language learning site
+- make README.md github page that is an address book, polling question, and one word story
+- make AI play games
 
 ## youtube
 
