@@ -8,29 +8,23 @@
 # done
 
 # schedule
-## tomorrow
-7 wake up
-7-8 walk
-8-9 lift
-9-10 chinese
-10-12 world models and RL
-12-12:30 rest
-12:30-3 news bot
-3-5 papers, RL project, or news bot
-5-8/9 volleyuball
-9-10 plans for tmr, papers
+READ, WORK, WORK2, LANG, RESEARCH, READ2
 
-- learn chinese 1
-- learn about RL and world models 2
-- finish the news bot m1 4
- - add the visemes
- - optimize the blender render
- - add the video queue
- - check on scheduling and everything
- - add twitch functionality
- - add more model expressions and movements 
-- start an RL project 2
-- go over some Ilya papers and look at ongoing work in ML 2
+## today
+- Chinese LANGUAGE
+- read about world models, READ, RESEARC
+- make world model WORK2, RESEARCH
+- apply to jobs WORK2
+- news bot WORK, WORK2
+ - research Unity streaming solutions with audio
+ - move stuff to Unity
+  - how to affect scene programmatically
+  - how to stream to Twitch
+ - connect text to audio to viseme to eventually Unity scene changer
+
+
+
+## tomorrow
 
 ## week
 - make an RL project
