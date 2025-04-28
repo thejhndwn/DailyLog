@@ -10,34 +10,54 @@
 # schedule
 READ, WORK, WORK2, LANG, RESEARCH, READ2
 
+Monday - walk 5, workout
+Tuesday - walk 5, workout
+Wednesday - lecture day, walk 5,
+Thursday - walk 5, commentary video, workout
+Friday - walk 5, coding day, workout, cooking video
+Saturday - lecture day, walk 7/10, coding day, commentary video
+Sunday - walk 5, coding day, singing videok, workout
+
 ## today
 - Chinese LANGUAGE
-- read about world models, READ, RESEARC
-- make world model WORK2, RESEARCH
-- apply to jobs WORK2
-- news bot WORK, WORK2
- - research Unity streaming solutions with audio
- - move stuff to Unity
-  - how to affect scene programmatically
-  - how to stream to Twitch
- - connect text to audio to viseme to eventually Unity scene changer
+- apply to jobs WORK1
+- read papers WORK1, WORK2
+- look for OS packages to contribute to RESEARCH
+- news bot: figure out how to animate and stream RESEARCH
+- rl project WORK2, RESEARCH
+- lecture: deep RL
 
+9-12 apply to jobs, read papers 
+12-1 piano
+1-4 finish papers, read Deep RL
+4-5 walk
+5-6 chinese
+6-9 start RL project, or news bot and OS projects
+9-10 go to sleep, read or something
 
 
 ## tomorrow
 
 ## week
-- make an RL project
-- record a singing video
-- improve news bot
-- record cooking video
-- record commentary video
+- make an RL project sunday
+- make OS contribution
+- record a singing video sunday
+- figure out how to stream the news bot render sat
+- record cooking video friday
+- record commentary video saturday
 - learn chinese 
-- learn go over the Ilya papers and research the ongoing ML stuff, try to make an ML research project
+- finish Ilya papers
 
-- finish up the misc work
+- finish up the misc work sat
 - learn Rust
 - learn Vim
+
+## month
+last week of april - read ilya papers
+first week of may - make RL project
+second week of may - make rag project
+third week of may - make multi-agent project
+fourth week of may - make AI powered recommender system
 
 
 # work
@@ -59,18 +79,7 @@ READ, WORK, WORK2, LANG, RESEARCH, READ2
 - plan food video
 - record commentary video
 
-- tft set 14 video
- 
- intro 
-
- "ok here we got another set, it was really balanced in the PBE so it'll probably be really fun..." cut to getting rocked by the same unit/comp repeatedly
-
- "oh wow this looks like a good unit" cut to low placement
-
- focus on unbalanced things, low placements, cheesy chibi, funny chat logs, bad rng, successul rolldowns, failing rolldowns, bad items, bad positioning, backline ambushers
-
 ## misc
-- remove credit card charges
 - finish ci/cd interactive buddy
 - finish ci/cd lokispalace
 - finish dev for ar glasses
